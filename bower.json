@@ -1,0 +1,24 @@
+{
+  "name": "networks",
+  "version": "0.0.1",
+  "homepage": "https://github.com/PabloVallejo/networks",
+  "authors": [
+    "Pablo Vallejo <pabloninety@gmail.com>"
+  ],
+  "description": "Basic web server",
+  "keywords": [
+    "Networks",
+    "Server"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
